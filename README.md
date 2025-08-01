@@ -1,3 +1,5 @@
+![Screenshot map](screenshot.png)
+
 download of clone project and run index.html
 
 
