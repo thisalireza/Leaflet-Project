@@ -1,6 +1,6 @@
 ![Screenshot map](screenshot.png)
 
-download of clone project and run index.html
+download or clone project and run index.html
 
 
 Lybrary: leafletJS
